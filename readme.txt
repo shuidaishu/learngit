@@ -1,5 +1,4 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Learn stage how to work.
+Git is a version control system.
+Git is free software.
 111
-222
+333
